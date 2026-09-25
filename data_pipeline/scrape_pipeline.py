@@ -1,8 +1,9 @@
 """Zepto Data Pipeline - scrape, clean, convert, load, query, compare."""
 
+import sqlite3
+
 from __future__ import annotations
 
-import sqlite3
 from pathlib import Path
 from typing import Any ,Optional
 from urllib.parse import urljoin
