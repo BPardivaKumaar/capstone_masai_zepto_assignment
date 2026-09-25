@@ -1,4 +1,4 @@
-"""Reload the saved end-to-end classifier pipeline and predict on raw feature columns."""
+"""Reload the saved end-to-end classifier pipeline and predict on raw feature columns.."""
 
 from pathlib import Path
 
