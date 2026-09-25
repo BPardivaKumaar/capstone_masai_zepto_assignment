@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter / local tooling
+.ipynb_checkpoints/
+.vscode/
+
+# Module-generated caches and local indexes
+support_assistant/chroma_db/*
+!support_assistant/chroma_db/.gitkeep
+
+# Local model caches
+.cache/
+
+# Optional local logs
+*.log

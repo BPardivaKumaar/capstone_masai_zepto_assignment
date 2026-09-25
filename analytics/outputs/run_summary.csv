@@ -1,0 +1,6 @@
+,0
+best_initial_classifier,Logistic Regression
+gridsearch_best_params,"{'model__max_depth': 12, 'model__max_features': 'sqrt', 'model__n_estimators': 200}"
+gridsearch_oob_score,0.8171589310829818
+regression_metrics,"{'mae': 21.09860425964041, 'rmse': 41.702104679032146, 'r2': 0.34816257216054314, 'adjusted_r2': 0.30913039085279115}"
+artifact,best_pipeline.joblib

@@ -1,0 +1,2 @@
+best_params,best_cv_f1,oob_score
+"{'model__max_depth': 12, 'model__max_features': 'sqrt', 'model__n_estimators': 200}",0.7578320948360867,0.8171589310829818
