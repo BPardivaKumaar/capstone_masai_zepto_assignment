@@ -1,4 +1,4 @@
-# Zepto Data analysis & AI Platform - Capstone Submission
+# Zepto's Data analysis & AI Chat bot - Capstone Project
 
 This repository is one connected project with three modules required by the assignment:
 
